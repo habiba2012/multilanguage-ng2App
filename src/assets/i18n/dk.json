@@ -1,0 +1,42 @@
+{
+    "HomeLink": "Velkommen",
+    "AboutLink": "Om",
+    "ContactLink": "Kontakt",
+    "Sel_lang": "Vælg sprog",
+    "Languages":{
+        "English":"Engelsk",
+        "Danish":"Dansk"
+    },
+    "Title": "Oversæt App",
+    "MainTxt": "Velkommen",
+    "LeadTxt": "Dette er et resultat kantet demo applikation.Brugeren kan se standardsproget baseret på placeringen eller brugeren kan vælge det sprog valg af ovenstående.",
+    "MainBnt": "Begynde",
+    "Head1": "Begynde",
+    "Text1": "Detaljeret dokumentation og udvikler vejledning kan findes her.",
+    "Head2": "API-reference",
+    "Text2": "Reference Detalje kantet-oversætte API kan findes her.",
+    "Head3": "Github",
+    "Text3": "Se kantet oversætte på github her.",
+    "About": {
+        "PgTitle":"On",
+        "PgText":"Dette viser web-applikation ved hjælp kantet tranlate og karakteristika Kantet resultat er meget enkel at bruge og kan let integreres med enhver kantet app er fyldt med tonsvis af funktioner og muligheder gør .. vores liv lettere."
+    },
+    "Contact":{
+        "PgTitle":"Kontakt",
+        "fname": "Navn",
+        "fname-placeholder":"Indtast dit navn",
+        "lname":"Efter Navn",
+        "lname-placeholder":"Indtast dit efter navn",
+        "email":"E-Mail",
+        "email-placeholder":"Indtast E-Mail",
+        "phone":"Telefon #",
+        "phone-placeholder":"(+45)5334-5181",
+        "add":"Adresse",
+        "add-placeholder":"Indtast adresse",
+        "web":"Hjemmeside",
+        "web-placeholder":"Indtast hjemmside",
+        "comment":"Kommentarer",
+        "comment-placeholder":"Indtast dine kommentarer",
+        "btn":"Send"
+    }
+  }
